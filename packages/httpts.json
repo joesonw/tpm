@@ -1,0 +1,6 @@
+{
+	"repository": {
+		"type": "git",
+		"git": "https://github.com/joesonw/http.ts.git"
+	}
+}
