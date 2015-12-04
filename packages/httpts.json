@@ -1,4 +1,6 @@
 {
+	"name": "httpts",
+	"version": "0.0.1",
 	"repository": {
 		"type": "git",
 		"git": "https://github.com/joesonw/http.ts.git"
